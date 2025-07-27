@@ -1,6 +1,18 @@
-{
-  "dependencies": {
-    "express": "^5.1.0",
-    "mysql2": "^3.14.2"
-  }
+{ 
+  "dependencies": { 
+  "express": "^5.1.0",
+  "mysql2": "^3.14.2"
+  },
+  "name": "testapihosting",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
